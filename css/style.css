@@ -51,7 +51,6 @@ ul {
 /* slider start */
 .slider__container-span {
     width: 781px;
-    /* height: 54px; */
     display: block;
     font-weight: 400;
     font-size: 52px;
@@ -76,7 +75,6 @@ ul {
 
 .slider__container-text {
     width: 359px;
-    /* height: 665px; */
     font-weight: 400;
     font-size: 40px;
     line-height: 44px;
@@ -118,7 +116,6 @@ ul {
     height: 12px;
     background: #692340;
     border-radius: 6px;
-    /* margin:30px  auto; */
 }
 
 .circles {
@@ -127,12 +124,6 @@ ul {
     background: #EEE8E3;
     border-radius: 6px;
 }
-
-
-
-
-
-
 /* slider end */
 
 
