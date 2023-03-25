@@ -122,6 +122,42 @@ ul {
 
 
 /* place start */
+.place {
+    background: #692340;
+    border-radius: 0px;
+    width: 100%;
+    height: 600px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 37px;
+    justify-content: center;
+    align-items: center;
+}
+
+.place__title {
+    font-family: 'Roboto';
+
+    font-weight: 400;
+    font-size: 74px;
+    width: 533px;
+    letter-spacing: 1px;
+    margin-top: 116px;
+    color: #FBEECA;
+
+}
+
+.place__text {
+    font-family: 'Roboto';
+    
+    font-weight: 400;
+    font-size: 20px;
+    margin-left: -45px;
+    color: #FBEECA;
+
+}
 
 
 
